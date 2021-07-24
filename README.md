@@ -1,3 +1,7 @@
+Link to image on dockerhub : https://hub.docker.com/repository/docker/oruomaiv/shecode
+Repository Link : https://github.com/Oruomaiv/SCA-Cloud-School-Application.git
+
+
 SHECODE DOCKER APP
 
 Dockerized webpage app to print content to screen
